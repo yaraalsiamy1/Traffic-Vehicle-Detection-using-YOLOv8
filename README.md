@@ -82,3 +82,14 @@ This project demonstrates my ability to:
 - Fine-tune pretrained models  
 - Analyze and improve model performance  
 - Work with real-world datasets  
+
+
+## Team Members
+
+This project was developed as a team collaboration:
+
+- @ghalamansour 
+- @sarabashawri
+- Farah A Alhazmi
+- @yaraalsiamy1  
+- Amal F Al-Sharif 
