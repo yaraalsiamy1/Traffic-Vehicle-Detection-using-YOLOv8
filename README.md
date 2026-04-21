@@ -88,8 +88,8 @@ This project demonstrates my ability to:
 
 This project was developed as a team collaboration:
 
-- @ghalamansour 
-- @sarabashawri
+- [Ghala M Mansour](https://github.com/ghalamansour)  
+- [Sara A Bashawri](https://github.com/sarabashawri)  
 - Farah A Alhazmi
-- @yaraalsiamy1  
+- [Yara Alsiamy](https://github.com/yaraalsiamy1)  
 - Amal F Al-Sharif 
