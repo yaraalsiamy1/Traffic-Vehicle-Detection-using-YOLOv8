@@ -11,6 +11,7 @@ Results demonstrate significant improvements in model generalization and detecti
 
 The goal of this project is to detect and classify vehicles in traffic scenes, including:
 
+
 - Car
 - Van
 - Truck
